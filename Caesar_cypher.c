@@ -45,7 +45,6 @@ void main()
 	puts(text);
 	printf("\n");
 
-
 	for (i = 0; i < strlen(text); i++)
 	{
 		switch (text[i])
